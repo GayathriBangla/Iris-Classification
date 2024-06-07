@@ -8,3 +8,4 @@ This Project is thorugh application of machine learning with python programming.
 4)Logistic Regression
 5)metrics
 6)train_test_split We are making accuracy and prediction in Iris project through Iris Dataset. This is easy and understable for machine learning staters( Naive ).
+7)knn
